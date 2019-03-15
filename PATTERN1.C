@@ -1,3 +1,12 @@
+//Create a pattern for any value of n:
+//	Input: n=5
+//	Output:
+//	*####
+//	###**
+//	***##
+//	###**
+//	####*
+
 #include<stdio.h>
 #include<conio.h>
 void main()
